@@ -49,9 +49,6 @@ The trained model predicts diabetes with high accuracy and demonstrates good gen
 
 ⸻
 
-✅ Short Repo Description (One-liner)
-
-Machine learning-based diabetes classification system using Python and Scikit-learn to predict diabetes from medical data.
 
 
 
